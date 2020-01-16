@@ -1,0 +1,5 @@
+how to run
+-run xampp "sudo /opt/lampp/lampp start"
+-run "php -S localhost:8000" in this directory
+-go to "localhost:8000" in your browser
+-enjoy
